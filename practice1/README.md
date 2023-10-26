@@ -5,4 +5,4 @@
 
 ## Задание 2: сделать детектор движения
 
-![alt text](https://github.com/CepbluKot/image_processing/blob/master/practice1/task_2_res.пша)
+![alt text](https://github.com/CepbluKot/image_processing/blob/master/practice1/task_2_res.gif)
